@@ -257,7 +257,6 @@
   },
   {
     "selector": ".incident-name .subheader",
-<<<<<<< HEAD
     "string": "Rapporto Manutenzione Programmata",
     "replaceString": "Scheduled Maintenance"
   },
@@ -265,10 +264,6 @@
     "selector": ".incident-name .subheader",
     "string": "per",
     "replaceString": "Report for"
-=======
-    "string": "Resoconto Manutenzione Programmata per",
-    "replaceString": "Scheduled Maintenance Report for"
->>>>>>> 134613175764877ac97aad68ac0ec6c651eae071
   },
   {
     "selector": ".update-timestamp",
